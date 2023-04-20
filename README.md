@@ -92,6 +92,7 @@ endmodule
 ## FULL
 
 
+![DE](https://user-images.githubusercontent.com/118707009/233262661-ddbe4786-bb75-4f4e-855f-4be74411e03e.png)
 
 
 
