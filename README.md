@@ -81,7 +81,7 @@ endmodule
 
 ## FULL
 
-![image](https://user-images.githubusercontent.com/118707009/233261142-addb4986-0ea1-4ed8-8322-91cafa80340b.png)
+![image](https://user-images.githubusercontent.com/118707009/233276077-95b4cbda-99fe-4da1-8195-03180d86d58a.png)
 
 ## TIMING DIAGRAM
 
